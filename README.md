@@ -1,4 +1,4 @@
-# 👋🏾 Hi, I'm Darius Roberts
+# 👋 Hi, I'm Darius Roberts
 
 🚀 Lead Application Developer | Clean Tech Entrepreneur | Robotics Enthusiast  
 🌞 Helped build and scale a **residential solar + battery installation company** across hundreds of properties  
