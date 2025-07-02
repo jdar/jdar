@@ -19,6 +19,18 @@
 ## 🛠️ Technical Skills
 
 **Languages**: Dart, JavaScript, Python, Ruby, C, Java  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Ruby](https://img.shields.io/badge/ruby-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 **Frameworks**: React, Flutter, RTOS  
 **Systems**: Firmware, InfluxDB, ETL, MapBox, ArcGIS
 **Dev Tools**: Git, CI/CD, Automation Scripts  
@@ -45,7 +57,7 @@
 
 ## 🎓 Education
 
-<img src="https://brand.rice.edu/sites/g/files/bxs2876/files/2023-09/Rice_University_Blue_RGB.png" alt="Rice University" height="40" />
+![Rice University png](https://github.com/jdar/jdar/assets/Rice_University_Horizontal_Blue.png)
 **Rice University** 
 
 Studies in Computer Science, Civil Engineering, Energy Policy
