@@ -11,7 +11,7 @@
 
 - **Uplift Electronics** — Developing solar products with power optimization and Bluetooth communication  
 - **IoT Dashboards** — Real-time monitoring using AWS, InfluxDB, and Flutter  
-- **Workforce Programs** — Mentoring students and mid-career professionals in mobile dev, robotics, and embedded systems
+- **Community** — Organizing forums for students and professionals in mobile dev, robotics, and embedded systems
 - **Economic Auctions** — Regulation through smart auction design makes the world a better place.
 
 ---
