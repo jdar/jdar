@@ -19,6 +19,12 @@
 ## 🛠️ Technical Skills
 
 **Languages**: Dart, JavaScript, Python, Ruby, C, Java  
+**Frameworks**: React, Flutter, RTOS  
+**Systems**: Firmware, InfluxDB, ETL, MapBox, ArcGIS
+**Dev Tools**: Git, CI/CD, Automation Scripts  
+**Other**: BLE, Version Control, Data Visualization, Battery Protocols
+
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
@@ -32,10 +38,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-**Frameworks**: React, Flutter, RTOS  
-**Systems**: Firmware, InfluxDB, ETL, MapBox, ArcGIS
-**Dev Tools**: Git, CI/CD, Automation Scripts  
-**Other**: BLE, Version Control, Data Visualization, Battery Protocols
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ---
 
@@ -61,7 +64,7 @@
 ![Rice University png](https://raw.githubusercontent.com/jdar/jdar/refs/heads/main/assets/Rice_University_Horizontal_Blue.png)
 **Rice University** 
 
-Studies in Computer Science, Civil Engineering, Energy Policy
+Studies in Computer Science, Civil Engineering
 
 ---
 
