@@ -18,7 +18,7 @@
 
 ## 🛠️ Technical Skills
 
-**Languages**: Dart, JavaScript, Python, Ruby, C, Java  
+**Languages**: .NET, Dart, JavaScript, Python, Ruby, C, Java
 **Frameworks**: React, Flutter, RTOS  
 **Systems**: Firmware, InfluxDB, ETL, MapBox, ArcGIS
 **Dev Tools**: Git, CI/CD, Automation Scripts  
@@ -26,6 +26,7 @@
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
